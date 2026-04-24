@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e1RS1aSp2E4=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/Bitasmbl_my-backend-app-whatshapp_910_300/Bitasmbl_my-backend-app-whatshapp_910_300/Backend/Backend.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
